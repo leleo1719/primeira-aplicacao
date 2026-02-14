@@ -1,2 +1,3 @@
-# primeira-aplicacao
-minha primeira aplicação 
+# Primeira aplicação
+
+Criando minha primeira aplicação 
